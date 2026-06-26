@@ -173,26 +173,26 @@ streamlit run app.py
 
 ## Homepage
 
-![Homepage](home.png)
+![Homepage](screenshots/home.png)
 
 ## Joining of Agents
 
-![Homepage](agents_joining.png)
+![Homepage](screenshots/agents_joining.png)
 
 
 ## Final Verdict
 
-![Verdict](final_verdict.png)
+![Verdict](screenshots/final_verdict.png)
 
 
 ## Council report
 
-![History](full_council_report.png)
+![History](screenshots/full_council_report.png)
 
 
 ## Decision History
 
-![History](history.png)
+![History](screenshots/history.png)
 
 
 
