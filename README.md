@@ -240,7 +240,7 @@ Should I relocate to another city for better opportunities?
 
 # Author
 
-Isha
+Isha Sherj
 
 Built for the Kaggle AI Agents: Intensive Vibe Coding Capstone Project.
 
