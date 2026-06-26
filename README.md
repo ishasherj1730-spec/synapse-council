@@ -148,7 +148,7 @@ The system is deployable as a Streamlit application and can be run locally or ho
 
 ## Clone Repository
 
-git clone [YOUR_REPOSITORY_URL](https://github.com/ishasherj1730-spec/synapse-council.git)
+git clone (https://github.com/ishasherj1730-spec/synapse-council.git)
 
 ## Navigate Into Project
 
