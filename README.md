@@ -177,15 +177,15 @@ streamlit run app.py
 
 ## Joining of Agents
 
-![Homepage](agents joining.png)
+![Homepage](agents_joining.png)
 
 ## Council report
 
-![History](Full council report.png)
+![History](full_council_report.png)
 
 ## Final Verdict
 
-![Verdict](final verdict.png)
+![Verdict](final_verdict.png)
 
 ## Decision History
 
