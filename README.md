@@ -173,21 +173,27 @@ streamlit run app.py
 
 ## Homepage
 
+![Homepage](home.png)
 
+## Joining of Agents
 
-## Council Analysis
+![Homepage](agents joining.png)
 
-(Add analysis screenshot)
+## Council report
+
+![History](Full council report.png)
 
 ## Final Verdict
 
-(Add verdict screenshot)
+![Verdict](final verdict.png)
 
 ## Decision History
 
-(Add history screenshot)
+![History](history.png)
 
----
+
+
+
 
 # Example Use Cases
 
