@@ -55,7 +55,7 @@ Synthesizes all viewpoints and generates the final verdict.
 
 # Architecture
 
-
+![Architecture](screenshots/architecture.png)
 
 
 # Features
