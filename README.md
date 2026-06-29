@@ -55,31 +55,7 @@ Synthesizes all viewpoints and generates the final verdict.
 
 # Architecture
 
-User Decision
 
-    ↓
-
-Evidence Agent
-
-Risk Agent
-
-Opportunity Agent
-
-Future Agent
-
-Ethics Agent
-
-    ↓
-
-Chairperson Agent
-
-    ↓
-
-Final Verdict
-
-Consensus Analysis
-
-Detailed Council Discussion
 
 
 # Features
